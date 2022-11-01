@@ -18,6 +18,7 @@ gunicorn
 lk21
 lxml
 mediainfo
+megasdkrest
 pillow
 psutil
 psycopg2-binary
